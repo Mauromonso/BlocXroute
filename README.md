@@ -9,7 +9,7 @@ This `README.md` document is part of the home assignment for the Technical Suppo
 - **Exercise 2:** Troubleshooting blockchain-related issues on Ethereum and Solana networks.
 - **Exercise 3 (Optional):** Smart contract development to track and manage ETH and ERC20 tokens.
 
-This document provides a detailed 1-to-1 mapping of the assignment questions, requirements, and solutions in a GitHub-compatible markdown format.
+This document provides a detailed 1-to-1 mapping of the assignment questions, requirements, and solutions in a GitHub-compatible markdown format. The deliverable with the answers is in this [pdf document](https://github.com/Mauromonso/BlocXroute/blob/main/Home%20Assignment%20-%20Technical%20Support%20Manager%20%40Bloxroute.pdf).
 
 ---
 
